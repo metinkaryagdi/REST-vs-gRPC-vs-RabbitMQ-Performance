@@ -1,0 +1,14 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+server_bin
+client_bin
+
+# IDE and System files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
